@@ -9,25 +9,21 @@ Output/Untethered\ Prototype\ Debug/Obj/main.o: \
  /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/CMSIS_4/CMSIS/Include/core_cmFunc.h \
  /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/CMSIS_4/CMSIS/Include/core_cmSimd.h \
  /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/STM32F4xx/CMSIS/Device/Include/system_stm32f4xx.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/gpio.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/reg_access.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/reg_access_dynamic.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/registers.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/rcc.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/i2c.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/interrupts.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/interruptable.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/misc.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/usart.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/gpio_config.h \
- /home/matt/Development/code/st/embedded\ studio/Untethered\ Prototype/circular_buffer.h \
- /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/adc.h \
- /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/adc_registers.h \
- /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/util.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/gpio.h \
  /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/reg_access.h \
  /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/reg_access_dynamic.h \
- /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/gpio_config.h \
- /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/rcc_registers.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/rcc.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/util.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/i2c.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/gpio.h \
  /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/interrupts.h \
  /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/interruptable.h \
- /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/misc.h
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/misc.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/usart.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/gpio_config.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/circular_buffer.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/gpio_config.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/circular_buffer.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/adc.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/adc_registers.h \
+ /home/matt/Development/code/st/embedded\ studio/STM32F4MDG/rcc_registers.h

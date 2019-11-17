@@ -54,10 +54,6 @@
     </folder>
     <folder Name="Source Files">
       <configuration Name="Common" filter="c;cpp;cxx;cc;h;s;asm;inc" />
-      <file file_name="interruptable.cpp" />
-      <file file_name="interruptable.h" />
-      <file file_name="interrupts.cpp" />
-      <file file_name="interrupts.h" />
       <file file_name="misc.c" />
       <file file_name="misc.h" />
       <file file_name="main.cpp" />

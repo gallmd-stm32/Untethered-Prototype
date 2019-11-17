@@ -1,8 +1,6 @@
 "Output/Untethered Prototype Debug/Obj/system_stm32f4xx.o"
 "Output/Untethered Prototype Debug/Obj/SEGGER_RTT.o"
 "Output/Untethered Prototype Debug/Obj/SEGGER_RTT_SES.o"
-"Output/Untethered Prototype Debug/Obj/interruptable.o"
-"Output/Untethered Prototype Debug/Obj/interrupts.o"
 "Output/Untethered Prototype Debug/Obj/misc.o"
 "Output/Untethered Prototype Debug/Obj/main.o"
 "Output/Untethered Prototype Debug/Obj/thumb_crt0.o"

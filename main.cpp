@@ -50,7 +50,7 @@ int main(void)
   uint8_t setBacklight[7] = {'|','-','|','+',0xFF,0x00,0x00};
 
   i2c.sendBytes(setBacklight,displayAddress,7);
-  Delay(0xFFF);
+  Delay(0xFFFF);
 //  i2c.sendBytes(testText2,displayAddress,32);
 
 
